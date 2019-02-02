@@ -6,12 +6,12 @@ In the project directory, you can run:
 
 ### `node app.js`
 
-Open [http://localhost:8080](http://localhost:3000) to view it in the browser.
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 This mode does not watch file changes
 
 ### `nodemon app.js`
 
-Open [http://localhost:8080](http://localhost:3000) to view it in the browser.
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 The page will reload if you make edits.
