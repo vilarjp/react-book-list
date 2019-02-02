@@ -1,4 +1,4 @@
-This is a simple server created with Node.js and Express
+This is a simple server created with Node.js and Express to run a GraphQL + MongoDB application
 
 ## Available Scripts
 
