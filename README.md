@@ -40,6 +40,7 @@ After downloading, simply run "npm install" inside each folder (server and clien
 * [Apollo](https://www.apollographql.com/)
 * [GraphQL](https://graphql.org/)
 * [MongoDB](https://www.mongodb.com/)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 ## License
 
