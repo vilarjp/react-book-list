@@ -1,6 +1,6 @@
 # React Book List
 
-A simple Book List App made with React, Apollo, GraphQL and MongoDB
+A simple Book List App made with React, Apollo, Node.js, GraphQL and MongoDB
 
 ## Download
 
