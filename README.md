@@ -1,3 +1,6 @@
+![alt text](https://github.com/vilarjp/react-book-list/blob/master/image.png)
+
+
 # React Book List
 
 A simple Book List App made with React, Apollo, Node.js, GraphQL and MongoDB
